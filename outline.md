@@ -26,7 +26,7 @@ PaaS is a set of those solutions (IaaS) combined and packaged.
 - Heroku allows you to push your code, configure backing services, and dynamically
 adjust the amount of resources your application can consume. 
 - Spend time solving app problems, not infrastructure 
-- _Tyler's full stack comment_
+- _Tyler' s full stack comment_
 
 ### Features 
 
